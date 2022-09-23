@@ -384,13 +384,13 @@
       <hotspot skinid="vtourlogo" tilt="-89.75" url="" id="Point01" description="" title="" target="" pan="-115.89"/>
       <hotspot skinid="ht_node" tilt="0" url="{node13}" id="Point01" description="" title="IMG_20220727_125355_00_011.insp" target="$fwd" pan="-2.34897" distance="34.287"/>
       <hotspot skinid="ht_node" tilt="0" url="{node15}" id="Point02" description="" title="IMG_20220727_125603_00_013.insp" target="$fwd" pan="-185.294" distance="22.1957"/>
-      <polyhotspot url="{node10}" id="Poly01" description="" title="Chemistry Laboratory" target="">
+      <polyhotspot url="{node10}" id="Poly01" description="" title="Chemistry Laboratory" target="-139.4/-21.0/100.0">
         <polystring>-242.76/7.35|-249.24/7.86|-249.14/-8.62|-242.66/-8.38</polystring>
       </polyhotspot>
-      <polyhotspot url="{node9}" id="Poly02" description="" title="Chemistry Laboratory" target="">
+      <polyhotspot url="{node9}" id="Poly02" description="" title="Chemistry Laboratory" target="176.2/-29.5/100.0">
         <polystring>-259.1/8.28|-267.81/8.22|-267.61/-10.17|-258.95/-9.94</polystring>
       </polyhotspot>
-      <polyhotspot url="{node8}" id="Poly03" description="" title="Physics Laboratory" target="">
+      <polyhotspot url="{node8}" id="Poly03" description="" title="Physics Laboratory" target="-26.4/-10.9/100.0">
         <polystring>-304.79/6.78|-330.05/4.31|-330.2/-5.4|-306.12/-8.29</polystring>
       </polyhotspot>
     </hotspots>
