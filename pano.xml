@@ -526,7 +526,10 @@
       <hotspot id="Point01" pan="-115.89" tilt="-89.75" description="" url="" title="" target="" skinid="vtourlogo"/>
       <hotspot id="Point01" pan="136.92" tilt="-0.43" description="" url="{node19}" title="Basketball Court" target="$fwd" distance="40.7386" skinid="custom_node"/>
       <hotspot id="Point02" pan="93.3624" tilt="-1.6" description="" url="{node18}" title="IMG_20220727_130210_00_016.insp" target="$fwd" distance="30.0289" skinid="ht_node"/>
-      <hotspot id="Point03" pan="230.668" tilt="0" description="" url="{node21}" title="IMG_20220727_130614_00_019.insp" target="$fwd" distance="20.8867" skinid="ht_node"/>
+      <hotspot id="Point03" pan="215.278" tilt="-2.29" description="" url="{node21}" title="IMG_20220727_130614_00_019.insp" target="$fwd" distance="20.8867" skinid="ht_node"/>
+      <polyhotspot id="Poly01" description="" url="{node23}" title="Culinary Lab" target="">
+        <polystring>-72.06/3.98|-71.67/-1.09|-92.92/-1.49|-93.62/4.48</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendtime="0.5" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" zoomafterinfov="90" zoomspeed="10"/>
@@ -553,7 +556,9 @@
       <hotspot id="Point01" pan="-115.89" tilt="-89.75" description="" url="" title="" target="" skinid="vtourlogo"/>
       <hotspot id="Point01" pan="-251.62" tilt="0" description="" url="{node19}" title="Basketball Court" target="$fwd" distance="44.6156" skinid="ht_node"/>
       <hotspot id="Point02" pan="-317.312" tilt="0" description="" url="{node20}" title="IMG_20220727_130441_00_018.insp" target="$fwd" distance="20.8867" skinid="ht_node"/>
-      <hotspot id="Point03" pan="-48.8136" tilt="0" description="" url="{node23}" title="Culinary Lab" target="$fwd" distance="37.346" skinid="ht_node"/>
+      <polyhotspot id="Poly01" description="" url="{node23}" title="" target="">
+        <polystring>-40.13/5.41|-32.82/3.06|-35.38/2.51|-35.29/-2.33|-59.75/-3.36|-59.79/3.57|-66.18/8.41</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendtime="0.5" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" zoomafterinfov="90" zoomspeed="10"/>
@@ -579,6 +584,9 @@
       <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="1"/>
       <hotspot id="Point01" pan="-115.89" tilt="-89.75" description="" url="" title="" target="" skinid="vtourlogo"/>
       <hotspot id="Point01" pan="-38.9608" tilt="-0.77" description="" url="{node23}" title="Culinary Lab" target="$fwd" distance="13.705" skinid="ht_node"/>
+      <polyhotspot id="Poly01" description="" url="{node20}" title="" target="">
+        <polystring>-352.48/6.25|-0.5/5.63|-0.65/-11.7|-352.47/-12.92</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomfov="20" blendtime="0.5" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" zoomout="0" zoomoutpause="1" enabled="1" type="crossdissolve" zoomafterinfov="90" zoomspeed="10"/>
@@ -603,8 +611,8 @@
       <label textalpha="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" background="1" border="1" wordwrap="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" width="180"/>
       <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="1"/>
       <hotspot id="Point01" pan="-115.89" tilt="-89.75" description="" url="" title="" target="" skinid="vtourlogo"/>
-      <hotspot id="Point01" pan="71.6887" tilt="-1.31" description="" url="{node22}" title="IMG_20220727_131211_00_020.insp" target="$fwd" distance="13.705" skinid="ht_node"/>
-      <polyhotspot id="Poly01" description="" url="{node21}" title="Outside" target="">
+      <hotspot id="Point01" pan="73.7587" tilt="-2.61" description="" url="{node22}" title="IMG_20220727_131211_00_020.insp" target="$fwd" distance="13.705" skinid="ht_node"/>
+      <polyhotspot id="Poly01" description="" url="{node20}" title="" target="">
         <polystring>-331.78/-17.98|-341.84/-20.91|-342.4/1.28|-331.39/1.08</polystring>
       </polyhotspot>
     </hotspots>
