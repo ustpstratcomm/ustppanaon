@@ -19,7 +19,12 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="1" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot skinid="vtourlogo" tilt="-89.75" url="" id="Point01" description="" title="" target="" pan="-115.89"/>
       <hotspot skinid="ht_node" tilt="0" url="{node24}" id="Point01" description="" title="IMG_20220727_140738_00_022.insp" target="$fwd" pan="360.27" distance="6.23192"/>
-      <hotspot skinid="ht_node" tilt="-8.16" url="{node12}" id="Point02" description="" title="IMG_20220727_125321_00_010.insp" target="$fwd" pan="200.208" distance="11.2965"/>
+      <polyhotspot url="{node12}" id="Poly01" description="" title="" target="">
+        <polystring>-136.9/4.26|-144.93/4.58|-144.84/-6.71|-141.52/-6.96|-140.03/-8.95|-140.15/-12.89|-136.75/-11.91</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" id="Poly02" description="" title="" target="">
+        <polystring>-196.67/2.73|-196.65/-8.23|-197.03/-8.25|-197.01/-8.69|-196.85/-9.22|-196.99/-9.52|-197.7/-9.55|-198.41/-10.03|-198.33/-14.23|-224.53/-9.94|-224.33/1.88</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" zoomspeed="10" zoomafterinfov="90" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomafteroutfov="20" zoomfov="20" blendtime="0.5"/>
@@ -352,6 +357,7 @@
       <hotspot skinid="vtourlogo" tilt="-89.75" url="" id="Point01" description="" title="" target="" pan="-115.89"/>
       <hotspot skinid="ht_node" tilt="0" url="{node12}" id="Point01" description="" title="IMG_20220727_125321_00_010.insp" target="$fwd" pan="59.2364" distance="10.9913"/>
       <hotspot skinid="ht_node" tilt="0" url="{node14}" id="Point02" description="" title="IMG_20220727_125501_00_012.insp" target="$fwd" pan="-36.9349" distance="34.287"/>
+      <hotspot skinid="ht_node" tilt="-6.38" url="{node11}" id="Point03" description="" title="Gate" target="$fwd" pan="141.999" distance="14.9959"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" zoomspeed="10" zoomafterinfov="90" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomafteroutfov="20" zoomfov="20" blendtime="0.5"/>
