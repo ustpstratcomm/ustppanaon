@@ -185,7 +185,7 @@
       <hotspot skinid="ht_node" tilt="0" url="{node26}" id="Point01" description="" title="Flagpole" target="$fwd" pan="15.4378" distance="11.6823"/>
       <hotspot skinid="ht_node" tilt="0" url="{node25}" id="Point02" description="" title="gate" target="$fwd" pan="-122.112" distance="21.2823"/>
       <hotspot skinid="ht_node" tilt="-1.88" url="{node5}" id="Point03" description="" title="Hallway" target="$fwd" pan="-254.34" distance="9.44576"/>
-      <polyhotspot url="{node7}" id="Poly01" description="" title="" target="">
+      <polyhotspot url="{node7}" id="Poly01" description="" title="Computer Laboratory" target="">
         <polystring>-148.98/15.89|-176.69/16.27|-176.54/-33.95|-149/-34.16</polystring>
       </polyhotspot>
     </hotspots>
@@ -218,30 +218,6 @@
       <polyhotspot url="{node5}" id="Poly02" description="" title="" target="">
         <polystring>-315.38/5.88|-323.34/6.88|-323.19/-7.53|-319.74/-7.55|-319.34/-13.89|-320.05/-14.37|-320.05/-18.21|-315.71/-16.74|-315.31/-16.35</polystring>
       </polyhotspot>
-    </hotspots>
-    <media/>
-    <transition zoomin="0" zoomoutpause="1" zoomspeed="10" zoomafterinfov="90" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomafteroutfov="20" zoomfov="20" blendtime="0.5"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control contextfullscreen="1" hideabout="1" rubberband="0" lockedkeyboardzoom="0" contextvr="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" simulatemass="1" speedwheel="1" invertcontrol="1" dblclickfullscreen="0"/>
-  </panorama>
-  <panorama hideabout="1" id="node27">
-    <input levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="1520" levelbias="0.400" overlap="1" height="1520" leveltilesize="510">
-      <level predecode="0" width="1520" preload="0" height="1520"/>
-      <level predecode="0" width="760" preload="0" height="760"/>
-      <level predecode="1" width="380" preload="1" height="380"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360"/>
-    </view>
-    <userdata copyright="" nodeid="node27" heading="0" latitude="8.35970635" customnodeid="" description="" title="IMG_20220727_141148_00_025.insp" datetime="27 Jul 2022 2:11 pm" comment="" author="" tags="Panaon" source="" longitude="123.84381485" info="" altitude="7.70"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" enabled="1" background="1" textalpha="1" width="180" borderalpha="1" borderradius="1" wordwrap="1" height="20" textcolor="0x000000" backgroundalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="1" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot skinid="vtourlogo" tilt="-89.75" url="" id="Point01" description="" title="" target="" pan="-115.89"/>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" zoomspeed="10" zoomafterinfov="90" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomafteroutfov="20" zoomfov="20" blendtime="0.5"/>
@@ -738,7 +714,15 @@
       <hotspot skinid="ht_node" tilt="0" url="{node6}" id="Point02" description="" title="Hallway" target="$fwd" pan="148.575" distance="11.6823"/>
       <hotspot skinid="ht_node" tilt="-0.74" url="{node4}" id="Point03" description="" title="Hallway" target="$fwd" pan="71.4645" distance="11.8032"/>
       <hotspot skinid="ht_node" tilt="-0.58" url="{node2}" id="Point05" description="" title="Hallway" target="$fwd" pan="342.226" distance="13.1884"/>
-      <hotspot skinid="ht_node" tilt="0" url="{node3}" id="Point04" description="" title="Hallway" target="$fwd" pan="21.3884" distance="16.3718"/>
+      <polyhotspot url="{node7}" id="Poly01" description="" title="Computer Laboratory" target="">
+        <polystring>-197.43/3.45|-197.42/-3.88|-223.85/-3.83|-224.03/2.95</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node28}" id="Poly02" description="" title="Smart Campus" target="">
+        <polystring>-268.83/4.15|-308.1/3.97|-308.14/-5.93|-268.93/-5.84</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node1}" id="Poly03" description="" title="Library" target="">
+        <polystring>-340.88/2.28|-345.85/2.57|-345.97/-4.32|-341/-4.47</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomin="0" zoomoutpause="1" zoomspeed="10" zoomafterinfov="90" enabled="1" softedge="0" blendcolor="0x000000" zoomout="0" type="crossdissolve" zoomafteroutfov="20" zoomfov="20" blendtime="0.5"/>
